@@ -4,7 +4,7 @@
 
 This project contains two servlet assignments designed to demonstrate basic concepts of Java servlets. The assignments involve creating simple web applications that handle user input and perform basic operations such as login validation and redirecting users based on input.
 
-### Login Servlet**
+### Login Servlet
 - Objective: Create a login page that accepts a username and password.
 - **Functionality**:
   - If the password is less than 8 characters, display a message indicating the password is weak.
