@@ -10,7 +10,7 @@ This project contains two servlet assignments designed to demonstrate basic conc
   - If the password is less than 8 characters, display a message indicating the password is weak.
   - If the password is 8 characters or more, display a welcome message with the username.
 
-### Send Redirect**
+### Send Redirect
 - Objective: Create a web page that accepts a search term and redirects the user to Google with the query.
 - **Functionality**:
   - When the user enters a search term and clicks "Fetch", they are redirected to Google with the search query as a URL parameter.
